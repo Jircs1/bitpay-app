@@ -66,7 +66,7 @@
     "@walletconnect/jsonrpc-types": "1.0.2",
     "@walletconnect/legacy-utils": "2.0.0-rc.0",
     "@walletconnect/react-native-compat": "2.4.10",
-    "@walletconnect/sign-client": "2.10.4",
+    "@walletconnect/sign-client": "2.11.2",
     "@walletconnect/types": "2.10.4",
     "@walletconnect/utils": "2.10.4",
     "@walletconnect/web3wallet": "1.4.0",
